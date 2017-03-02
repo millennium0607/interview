@@ -7,7 +7,7 @@
 <title>home</title>
 </head>
 <body>
-	<h2>登陆</h2>
+	<h2>登陆:</h2>
 
 	username:${username }
 	<p>password:${password }
